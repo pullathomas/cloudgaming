@@ -74,4 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Unreal projects build output
-UnrealProjects/*/BuildOutput
+UnrealProjects/*/BuildOutput/*
+
+# Unreal external content (to avoid adding large actors)
+UnrealProjects/*/Content/ExternalContent/*
